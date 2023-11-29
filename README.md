@@ -1,1 +1,1 @@
-# BCG-Data-Science-Analytics-Virtual-Experience-Program
+# The Boston Consulting Group - Data Science Program
