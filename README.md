@@ -8,25 +8,25 @@
 
 PowerCo, a major gas and electricity utility company, partnered with BCG to address customer churn, especially in the SME segment, after the power liberalization in the European energy market. This project focuses on understanding the impact of price changes on customer churn and developing predictive models to mitigate churn through targeted strategies.
 
-### Project Tasks
+## Project Tasks Overview
+###Task 1: Business Understanding and Hypothesis Testing
+- Formulate a hypothesis as a data science problem focusing on price changes affecting customer churn.
+- Identify key factors influencing customers' decisions to switch providers and define necessary data sources and fields.
 
-1. **Business Understanding and Hypothesis Testing**
-   - Hypothesis: Price changes significantly affect customer churn.
-   - Data required: Historical customer data, pricing data, churn indicators.
-   - Approach: Develop a predictive model to identify at-risk customers sensitive to price changes.
+###Task 2: Exploratory Data Analysis
+- Analyze historical customer and pricing data provided by the client.
+- Verify the hypothesis that price sensitivity is correlated with churn.
+- Provide key findings from the analysis and suggest additional data sources for model enhancement.
 
-2. **Exploratory Data Analysis**
-   - Verified the correlation between price sensitivity and churn.
-   - Key Findings: Price sensitivity correlates with churn; suggested additional data sources for model enhancement.
+###Task 3: Feature Engineering and Modelling
+- Build features from the cleaned dataset to predict churn drivers.
+- Enhance a calculated feature's predictive power and rationale behind the improvements.
+- Train a Random Forest Classifier, evaluate its performance, and discuss its suitability for the use case.
+- Estimate potential cost savings for the client through churn prediction.
 
-3. **Feature Engineering and Modelling**
-   - Engineered features from available data and improved feature predictive power.
-   - Utilized a Random Forest Classifier to predict churn probabilities.
-   - Estimated potential cost savings by preventing churn using the model.
-
-4. **Findings and Recommendations**
-   - Abstract Slide Summary: Highlighted model accuracy, potential savings, and actionable insights.
-   - Recommendations: Deploy the churn prediction model, continue data augmentation efforts, and monitor model performance.
+###Task 4: Findings and Recommendations
+- Develop an abstract slide summarizing the project findings, emphasizing actionable insights.
+- Determine the most crucial metric to share with the client and assess the model's impact on the client's bottom line.
 
 ## How to Use
 
