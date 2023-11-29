@@ -33,36 +33,6 @@ PowerCo, a major gas and electricity utility company, partnered with BCG to addr
 - Python 3.7 or higher
 - Required libraries (NumPy, Pandas, Scikit-learn)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/powerco-churn-prediction.git
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-1. Navigate to the project directory:
-
-   ```bash
-   cd powerco-churn-prediction
-   ```
-
-2. Run the Jupyter notebooks:
-
-   ```bash
-   jupyter notebook
-   ```
-
-3. Explore the notebooks sequentially: `1_Business_Understanding.ipynb`, `2_Exploratory_Data_Analysis.ipynb`, `3_Feature_Engineering_Modeling.ipynb`, `4_Findings_Recommendations.ipynb`.
-
 ## Data Sources
 
 - Historical customer data: _Add source details_
@@ -78,6 +48,3 @@ PowerCo, a major gas and electricity utility company, partnered with BCG to addr
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to modify this template to suit your project’s specific details and add more sections or details as necessary. Ensure you replace placeholder texts with actual data sources, installation steps, and acknowledgments related to your project.
