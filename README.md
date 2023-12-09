@@ -4,7 +4,7 @@
 
 ## PowerCo Churn Prediction Project
 
-## Overview
+### Overview
 
 PowerCo, a major gas and electricity utility company, partnered with BCG to address customer churn, especially in the SME segment, after the power liberalization in the European energy market. This project focuses on understanding the impact of price changes on customer churn and developing predictive models to mitigate churn through targeted strategies.
 
@@ -34,12 +34,6 @@ PowerCo, a major gas and electricity utility company, partnered with BCG to addr
 
 - Python 3.7 or higher
 - Required libraries (NumPy, Pandas, Scikit-learn)
-
-## Data Sources
-
-- Historical customer data: _Add source details_
-- Historical pricing data: _Add source details_
-- Churn indicator: _Add source details_
 
 ## Acknowledgments
 
