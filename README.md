@@ -1,6 +1,5 @@
 # The Boston Consulting Group - Data Science Program
-
-![image](https://github.com/AlJawharhALOtaibi/BCG-Data-Science-Analytics-Virtual-Experience-Program/assets/87391133/420d4c0b-a093-49f3-a976-e8c59cb82de2)
+![image](https://github.com/AlJawharhALOtaibi/BCG-Data-Science-Internship/assets/87391133/1395d804-9755-4f46-95c9-e7e656e2745f)
 
 ## PowerCo Churn Prediction Project
 
